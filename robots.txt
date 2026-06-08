@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /login/
+Disallow: /register/
+
+Host: https://ross1337.github.io
+Sitemap: https://ross1337.github.io/sitemap.xml
